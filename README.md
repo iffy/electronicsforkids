@@ -1,4 +1,4 @@
-Here are some fun electronics projects for kids.
+The directories above contain some fun electronics projects for kids (or anyone that wants to do some electronic stuff).
 
 # How to get stuff
 
