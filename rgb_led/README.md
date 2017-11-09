@@ -27,3 +27,4 @@ The two same-valued resistors go in the green and blue spots.  The other resisto
 Things I'd like to do if I redesign it:
 
 - Tune the pots so that there's less dead space when turning.
+- Find smaller pots.  They're disproportionally huge.
