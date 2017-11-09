@@ -1,5 +1,6 @@
 This circuit board has three knobs (pots) and one red, green, blue LED.  Turning the knobs adjusts the amount of red/green/blue emitted.
 
+![Board](./boardtop.png)
 ![Board with LED on](./pic1.png)
 ![Bluish-green light](./pic2.png)
 
@@ -8,6 +9,10 @@ This circuit board has three knobs (pots) and one red, green, blue LED.  Turning
 The anode of the LED attaches to the top-right pad.  There ought to be two white lines around the anode pad.  When looking at the LED, look for a little L shape inside--that's the red corner which goes to the bottom right.
 
 ![Orienting the LED](./orientation.png)
+
+The white arrow here is pointing to the anode pad:
+
+![Anode](./boardtop_anode.png)
 
 # How to solder the tiny LED
 
