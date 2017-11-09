@@ -1,6 +1,7 @@
 This circuit board has three knobs (pots) and one red, green, blue LED.  Turning the knobs adjusts the amount of red/green/blue emitted.
 
-![picture](./pic1.png)
+![Board with LED on](./pic1.png)
+![Bluish-green light](./pic2.png)
 
 # How to orient the LED
 
