@@ -22,12 +22,16 @@ It's pretty tricky to solder the LED, but it can be done.  Put a little solder o
 
 There are 3 required resistors.  Here are their values:
 
+| Name | Value |
+|---|---|
 | RRED | 100 Ohm |
 | RGRN | 60 Ohm |
 | RBLU | 60 Ohm |
 
 There are 3 optional resistors that, if present, will remove a lot of the "dead space" when turning the knobs.
 
+| Name | Value |
+|---|---|
 | RRP | ~453 Ohm |
 | RGP | ~422 Ohm |
 | RBP | 300 Ohm |
