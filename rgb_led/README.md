@@ -36,10 +36,13 @@ There are 3 optional resistors that, if present, will remove a lot of the "dead 
 | RGP | ~422 Ohm |
 | RBP | 300 Ohm |
 
+# Battery
+
+This takes a single CR2032 battery.
 
 # Improvements
 
 Things I'd like to do if I redesign it:
 
 - Find physically smaller pots.  They're disproportionally huge.
-- Use a button instead of a switch
+- Use a button instead of a switch (so they don't die).
