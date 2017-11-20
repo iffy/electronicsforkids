@@ -20,11 +20,29 @@ It's pretty tricky to solder the LED, but it can be done.  Put a little solder o
 
 # Which resistor goes where?
 
-The two same-valued resistors go in the green and blue spots.  The other resistor goes with red.
+There are 3 required resistors.  Here are their values:
+
+| Name | Value |
+|---|---|
+| RRED | 100 Ohm |
+| RGRN | 60 Ohm |
+| RBLU | 60 Ohm |
+
+There are 3 optional resistors that, if present, will remove a lot of the "dead space" when turning the knobs.
+
+| Name | Value |
+|---|---|
+| RRP | ~453 Ohm |
+| RGP | ~422 Ohm |
+| RBP | 300 Ohm |
+
+# Battery
+
+This takes a single CR2032 battery.
 
 # Improvements
 
 Things I'd like to do if I redesign it:
 
-- Tune the pots so that there's less dead space when turning.
-- Find smaller pots.  They're disproportionally huge.
+- Find physically smaller pots.  They're disproportionally huge.
+- Use a button instead of a switch (so they don't die).
